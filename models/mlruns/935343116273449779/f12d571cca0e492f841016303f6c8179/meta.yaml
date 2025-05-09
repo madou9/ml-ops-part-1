@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/level3/Desktop/ml-ops-part-1/models/mlruns/935343116273449779/f12d571cca0e492f841016303f6c8179/artifacts
+end_time: 1746610809014
+entry_point_name: ''
+experiment_id: '935343116273449779'
+lifecycle_stage: active
+run_id: f12d571cca0e492f841016303f6c8179
+run_name: skittish-bat-590
+run_uuid: f12d571cca0e492f841016303f6c8179
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746610808878
+status: 4
+tags: []
+user_id: level3
